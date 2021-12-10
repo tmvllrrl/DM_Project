@@ -8,3 +8,4 @@ In order to run the autoencoder code, some steps need to be completed first:
 ```
 python3 main.py
 ```
+4. This will run the code for the autoencoder portion of the project.
