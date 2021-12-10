@@ -5,7 +5,8 @@ The Honda Research institute data that we used in the project (pre-processed by 
 
 ## Task 1: Robust Regressor
 ### Standard and Robust Models
-- A Standard ResNet implementation 
+- A Standard ResNet implementation code is obatined from [here](https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/Pytorch/CNN_architectures/pytorch_resnet.py)
+- Robust model code is obtained from [here](https://github.com/YuShen0118/SAAP_Auto-driving_Platform/tree/785f899fb3b3ad92075318f9fcb69b8e09597202)
 
 ### simCLR Model
 
@@ -24,3 +25,10 @@ In order to run the autoencoder code, some steps need to be completed first:
 python3 main.py
 ```
 4. This will run the code for the autoencoder portion of the project.
+
+
+## Testing trained models: 
+To test a trained model on validation sets, run 
+```
+python3 fine_tune_model.py
+```
