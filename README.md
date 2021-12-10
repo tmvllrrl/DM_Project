@@ -1,7 +1,7 @@
 # DM_Project
 
 ## Data
-The Honda Research insstitute data pre-processed by [](NeurIPS paper) found [](here)
+The Honda Research insstitute data pre-processed by [NeurIPS paper](here) found []()
 
 ## Task 1: Robust Regressor
 ### Standard and Robust Models
