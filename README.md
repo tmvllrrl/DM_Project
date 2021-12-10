@@ -9,7 +9,11 @@ The Honda Research institute data that we used in the project (pre-processed by 
 
 ### simCLR Model
 
-
+1. To pre-train the model using simCLR: Run the (Pretrain.ipynb)[simCLR/pre_train/Pre-train.ipynb] Jupyter Notebook file
+2. To fine-tune the model: Go to DM_Project/simCLR/fine_tune/ directory and run
+```
+python3 main.py
+```
 
 ## Task 2: Denoising Autoencoder
 In order to run the autoencoder code, some steps need to be completed first:
