@@ -1,13 +1,14 @@
 # DM_Project
 
 ## Data
-The Honda Research insstitute data pre-processed by [NeurIPS paper](here) found []()
+The Honda Research institute data that we used in the project (pre-processed by [NeurIPS paper](https://proceedings.neurips.cc/paper/2021/hash/dce8af15f064d1accb98887a21029b08-Abstract.html)) can be found [here](https://drive.google.com/file/d/1Xi0mA_mAj9Emp8DqUX45jyLqJDDQZGZQ/view)
 
 ## Task 1: Robust Regressor
 ### Standard and Robust Models
 - A Standard ResNet implementation 
 
 ### simCLR Model
+
 
 
 ## Task 2: Denoising Autoencoder
