@@ -1,6 +1,16 @@
 # DM_Project
 
-## Autoencoder
+## Data
+The Honda Research insstitute data pre-processed by [](NeurIPS paper) found [](here)
+
+## Task 1: Robust Regressor
+### Standard and Robust Models
+- A Standard ResNet implementation 
+
+### simCLR Model
+
+
+## Task 2: Denoising Autoencoder
 In order to run the autoencoder code, some steps need to be completed first:
 1. Download the .pt files from this link: https://drive.google.com/drive/folders/1w7GfDKQ_wsClzP8fkrbpOe-Q4nRMjGaj?usp=sharing. These files go in the saved_models folder within the autoencoder folder.
 2. Download the data from this link: https://drive.google.com/drive/folders/1jzoYxJuIaClt9Q_tloYxK06tuAJrYAFi?usp=sharing. These files go in the data folder within the autoencoder folder.
